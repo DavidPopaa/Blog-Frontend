@@ -1,0 +1,24 @@
+.auth-container {
+  height: 88vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.input-auth {
+  padding: 15px 40px;
+  border-radius: 9px;
+  border: none;
+  background-color: #e0e0e0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.signup {
+  color: #399e5a;
+  font-size: 30px;
+}

@@ -1,0 +1,71 @@
+.navbar-container {
+    width: 100vw;
+    height: 12vh;
+    background-color: #399E5A;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-container {
+    margin-left: 7vw;
+    font-size: 27px;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+}
+
+.profile-container {
+    margin-right: -29vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.profile-container-2 {
+    margin-right: -67vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.user-icon-div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 43px;
+}
+
+.username-div {
+    font-size: 20px;
+}
+
+.logout-div {
+    margin-right: 7vw;
+    width: 10px;
+    cursor: pointer;
+}
+
+.logout-btn {
+    background-color: rgb(212, 7, 7);
+    color: white;
+    padding: 7px 15px;
+    border: none;
+    letter-spacing: 0.5px;
+    border-radius: 11px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.signup-div {
+    cursor: pointer;
+    width: 10px;
+}
+
+.login-div {
+    cursor: pointer;
+    margin-right: 20vw;
+    width: 10px;
+}

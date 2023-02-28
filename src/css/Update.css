@@ -1,0 +1,25 @@
+.update-div-parent {
+    width: 100vw;
+    height: 88vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 80%;
+    height: 100%;
+}
+
+.input-update {
+    margin: 70px;
+    padding: 15px 40px;
+    border-radius: 9px;
+    border: none;
+    background-color: #E0E0E0;
+}
